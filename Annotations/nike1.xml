@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>nike1.jpg</filename>
+	<path>C:\Users\Kohli\Documents\Projects\Github\Object-Detection\Logo2-Dataset\JPEGImages\nike1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>837</width>
+		<height>560</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>301</ymin>
+			<xmax>540</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

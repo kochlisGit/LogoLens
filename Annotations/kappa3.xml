@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>kappa3.jpg</filename>
+	<path>C:\Users\Kohli\Documents\Projects\Github\Object-Detection\Logo2-Dataset\JPEGImages\kappa3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>992</width>
+		<height>992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kappa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>31</ymin>
+			<xmax>510</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+</annotation>

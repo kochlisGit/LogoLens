@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>puma2.jpg</filename>
+	<path>C:\Users\Kohli\Documents\Projects\Github\Object-Detection\Logo2-Dataset\JPEGImages\puma2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>724</xmin>
+			<ymin>626</ymin>
+			<xmax>926</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+</annotation>
