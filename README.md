@@ -44,3 +44,14 @@ Finally, It took 12 hours for the model to be trained with a TPU in the Google C
 ![](https://github.com/kochlisGit/Custom-Small-Logo-Detection/blob/main/Validation-Results/kappa.png)
 
 Notice how easily It manages to detect any logo, no matter where it placed, or how big it is, or how it is rotated in the image. I also created a script that uses the webcam to detect logos, so that I could try it by myself. However, the video is a bit laggy, because I run it on GTX 980, which is an old GPU with not much Computational power.
+
+# 4K-Walk in Spain
+https://drive.google.com/file/d/1q6wynkG7FTpHaGh_hmi4zgJ-rlqBR_wG/view?usp=sharing
+
+# Validation from Webcam
+https://drive.google.com/file/d/1dQEsU6b4v1a2D6r1F8-AuFk6tKOPY07O/view?usp=sharing
+
+# Graph
+Below, I will provide you with the model's graph, in case You are interested in downloading the model:
+
+https://drive.google.com/drive/u/0/folders/1LGaoijE-VuFYufbCIkC6oFrgswfkIiIw
